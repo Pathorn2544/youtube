@@ -107,7 +107,7 @@ main{
 }
 
 .content{
-    border: 1px solid red;
+    /*border: 1px solid red;*/
     width: 1200px;
     width: cal(100%-var(--sider));
     padding: 40px;
